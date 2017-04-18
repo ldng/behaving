@@ -10,6 +10,7 @@ from behaving.web import cordova
 from behaving.web import electron
 from behaving.web import chrome
 from behaving.web import firefox
+from behaving.web import phantomjs
 
 
 # Generic setup/teardown for compatibility with pytest et al.
